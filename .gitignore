@@ -1,0 +1,60 @@
+# ========================
+# macOS
+# ========================
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# ========================
+# VS Code
+# ========================
+.vscode/
+*.code-workspace
+
+# ========================
+# JetBrains (PyCharm, etc.)
+# ========================
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# ========================
+# Cursor IDE
+# ========================
+.cursor/
+
+# ========================
+# Python
+# ========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+.env
+.venv/
+env/
+venv/
+
+# ========================
+# Jupyter Notebooks
+# ========================
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# ========================
+# Misc
+# ========================
+*.log
+*.tmp
+*.swp
+*.swo
+*~
